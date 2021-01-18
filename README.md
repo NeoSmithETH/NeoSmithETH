@@ -4,7 +4,7 @@
 
 我会在那里记录有价值或有趣的分享……
 
-
+![Neo Smith's github stats](https://github-readme-stats.vercel.app/api?username=hineosmith&theme=radical)
 
 <!--
 **hineosmith/hineosmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
