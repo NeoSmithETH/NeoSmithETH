@@ -8,6 +8,12 @@
 
 ![Neo Smith's github stats](https://github-readme-stats.vercel.app/api?username=hineosmith&theme=radical)
 
+------
+
+![](https://komarev.com/ghpvc/?username=hineosmith)
+
+
+
 <!--
 **hineosmith/hineosmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
