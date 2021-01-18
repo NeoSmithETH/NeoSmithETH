@@ -1,9 +1,5 @@
 ### Neo Smith 懂一点代码的独立投资人
 
-<a target="_blank" href="https://travis-ci.com/github/12345blog/12345blog.github.io">
- <img src="https://travis-ci.com/12345blog/12345blog.github.io.svg?branch=main" alt="TravisCI"/>
-</a>
-
 欢迎访问我的博客 [https://12345.blog](https://12345.blog)
 
 我会在那里记录有价值或有趣的分享……
