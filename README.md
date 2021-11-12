@@ -6,7 +6,7 @@
 
 ------
 
-![Neo Smith's github stats](https://github-readme-stats.vercel.app/api?username=hineosmith&theme=radical)
+![Neo Smith's github stats](https://github-readme-stats.vercel.app/api?username=lotaeth&theme=radical)
 
 ------
 
