@@ -6,11 +6,11 @@
 
 ------
 
-![Neo Smith's github stats](https://github-readme-stats.vercel.app/api?username=lotaeth&theme=radical)
+![Neo Smith's github stats](https://github-readme-stats.vercel.app/api?username=NeoSmithETH&theme=radical)
 
 ------
 
-![](https://komarev.com/ghpvc/?username=hineosmith)
+![](https://komarev.com/ghpvc/?username=NeoSmithETH)
 
 
 
